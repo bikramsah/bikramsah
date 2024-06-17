@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikram Sah</h1>
-<h3 align="center">A passionate Web developer from Nepal</h3>
+<h3 align="center">A passionate Web developer from Nepal🇳🇵</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/bikramsah/bikramsah/assets/88473898/63f681f6-5406-47f5-8eef-82899422946a">
 
-"
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramsah&label=Profile%20views&color=0e75b6&style=flat" alt="bikramsah" /> </p>
 
