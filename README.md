@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramsah&label=Profile%20views&color=0e75b6&style=flat" alt="bikramsah" /> </p>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **something new**
 
 - 📫 How to reach me **info@sahbikram.com.np**
 
